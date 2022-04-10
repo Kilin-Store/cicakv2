@@ -7,6 +7,6 @@ M = '\x1b[1;91m' # MERAH
 if __name__ == '__main__':
     os.system("git pull")
     os.system("pip install rich")
-    os.system("cd cicalv2")
+    os.system("clear")
     os.system("python eliteprib.cython-38.so
 
