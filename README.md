@@ -47,7 +47,7 @@ ___
 
 - cd cicakv2
 
-- python jalan.py
+- python option.py
 
 
 
