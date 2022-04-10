@@ -43,7 +43,7 @@ ___
 
 - termux-setup-storage
 
-- git clone https://gitlab.com/mikasa-ex2022/kilinstore
+- git clone https://github.com/Kilin-Store/cicakv2
 
 - cd cicakv2
 
