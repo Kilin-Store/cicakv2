@@ -45,13 +45,13 @@ ___
 
 - git clone https://gitlab.com/mikasa-ex2022/kilinstore
 
-- cd kilinstore
+- cd cicakv2
 
 - python jalan.py
 
-[✓] Jadi Scrip Memiliki 2 Tools Yaa kawan"
 
-- python jalanV2.py
+
+
 
 
 # Terima kasih
